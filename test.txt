@@ -1,0 +1,2 @@
+odfnwdnf
+Hi this a test file to test the bash script
